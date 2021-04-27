@@ -6,7 +6,6 @@
 !   |  | |   |     |  | |   |  |   !
 !   |__| |__ |__   |__| |__ |__|   !
 !__________________________________!
-
 --->
 
 # Épitaphe
@@ -15,10 +14,4 @@
 > Sans prétention  
 > Bonne journée!  
 
----
-
-# Epitaph
-> Here lies @delbed  
-> Python fan  
-> Unpretentious  
-> Hello world!  
+Quelques packages Django
