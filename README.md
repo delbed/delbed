@@ -14,4 +14,4 @@
 > Sans prétention  
 > Bonne journée!  
 
-Quelques packages Django
+Quelques packages Django à venir!
