@@ -11,7 +11,9 @@
 # Épitaphe
 > Ici repose @delbed  
 > Amateur de Python  
-> Autodidacte
+> Autodidacte  
 > Bonne journée!  
 
 Quelques packages Django à venir!
+- Django email avec système de gabarits  
+- 
