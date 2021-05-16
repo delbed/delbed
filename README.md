@@ -11,7 +11,7 @@
 # Épitaphe
 > Ici repose @delbed  
 > Amateur de Python  
-> Sans prétention  
+> Autodidacte
 > Bonne journée!  
 
 Quelques packages Django à venir!
